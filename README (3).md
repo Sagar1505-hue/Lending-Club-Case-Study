@@ -21,18 +21,17 @@ Provide actionable insights: Offer recommendations to lending institutions to mi
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+-. Applicants with greater interest rates above 14% are much more likely to default.
+2. Borrowers with credit grades D, C ,E, F have significantly higher default rates, making them riskier.
+3. Borrowers taking loans for debt consolidation, small business, credit card  are more likely to default.
+4.Shorter employment tenure (less than 1 year) or after 10 years  increases the likelihood of default.
+5.Source verified applicants seem to have lesse default
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- numpy, pandas, matplotlib, seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
